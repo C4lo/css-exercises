@@ -1,0 +1,40 @@
+Assignment:
+What is the syntax for class and ID selectors?
+index.html
+<div class="alert-text">Please agree to our terms of service.</div>
+
+style.css
+class selectors - .classSelector {
+background-color: red;
+}
+
+index.html
+<div id="title">My Awesome 90's Page</div>
+
+style.css
+id selectors - #idSelector {
+background-color: red;
+}
+
+How would you apply a single rule to two different selectors?
+To apply a single rule, just merge the two selectors: .style , .hot
+{
+color: red;
+background-color: blue;
+}
+
+Given an element that has an id of title and a class of primary, how would you use both attributes for a single rule?
+#title.primary
+{
+color: green;
+background-color: yellow;
+}
+
+What does the descendant combinator do?
+
+What are the names of the three ways to add CSS to HTML?
+inline
+extern
+intern
+What are the main differences between the three ways of adding CSS to HTML?
+Überischt
