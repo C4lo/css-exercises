@@ -1,4 +1,4 @@
-.text {
+.odd {
     background-color:  lightpink;
     font: 'Verdana', 'DejaVu Sans';
     fallback: 'sans-serif';
@@ -8,6 +8,12 @@
     font-size: 36px;
 }
 }
-.text2 {
+.change-font-size {
     font-size: 24px;
+
+    #4th-element {
+        background-color: lightgreen;
+        font-size: 24px;
+        font-weight: 700;
+    }
 }
