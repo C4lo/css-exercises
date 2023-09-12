@@ -1,6 +1,10 @@
 .text {
-    color: lightpink;
+    background-color:  lightpink;
     font: 'Verdana', 'DejaVu Sans';
     fallback: 'sans-serif';
-
+    
+#2nd-element {
+    color: blue;
+    font-size: 36px;
+}
 }
