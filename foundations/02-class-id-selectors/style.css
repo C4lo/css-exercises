@@ -2,18 +2,19 @@
     background-color:  lightpink;
     font: 'Verdana', 'DejaVu Sans';
     fallback: 'sans-serif';
-    
-#2nd-element {
+}
+
+#e-two{
     color: blue;
     font-size: 36px;
 }
-}
+
 .change-font-size {
     font-size: 24px;
+}
 
-    #4th-element {
-        background-color: lightgreen;
-        font-size: 24px;
-        font-weight: 700;
-    }
+#e-four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
 }
