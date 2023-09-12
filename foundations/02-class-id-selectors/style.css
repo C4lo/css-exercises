@@ -1,0 +1,6 @@
+.text {
+    color: lightpink;
+    font: 'Verdana', 'DejaVu Sans';
+    fallback: 'sans-serif';
+
+}
