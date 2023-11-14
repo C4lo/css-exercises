@@ -22,7 +22,7 @@ body {
   color: white;
   font-weight: bold;
 } 
-/*.button vor .confirm, um gewollten confirmbutton zu erzeugen*/
+/*.button vor .confirm, chain, um gewollten confirmbutton zu erzeugen*/
 
 .button {
   background-color: rgb(255, 255, 255);
