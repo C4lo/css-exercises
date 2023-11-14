@@ -22,6 +22,7 @@ body {
   color: white;
   font-weight: bold;
 } 
+/*.button vor .confirm, um gewollten confirmbutton zu erzeugen*/
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -34,7 +35,7 @@ body {
   font-weight: 800;
   font-size: 14px;
 }
-
+/*.text vor .child gibt der child Klasse die div-Klassen Attribute*/
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
